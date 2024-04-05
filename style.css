@@ -1,0 +1,375 @@
+@keyframes backgroundMove {
+  0% {
+    background: radial-gradient(farthest-side, #e2e2e2 96%, transparent) 40%
+        15vh/120px 120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -150px/45px
+        45px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% 70vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 70%/150px 200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 3% 3vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -24% 39vh/95px 95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 80vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% 35vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 20% -210px/100px 100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 62% 100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -50px 70%/110px 125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 31% 70vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 23% 13vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -90% 20vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -80% 50vh/135px 135px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 140% 115vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -1150px/45px
+        45px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% 170vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 170%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 153% 13vh/80px
+        80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 24% 139vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 180vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% 135vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 170% -110px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 162% 1100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -50px 170%/110px 125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 31% 170vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 23% 113vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -190% 120vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -140% 1105vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -1150px/36px
+        36px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 210% 120vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -1150px 270%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -183% 19vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 124% 130vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 480vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% -135vh/70px 70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -170% -150px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 182% 1170vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 1700%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 361% 140vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 213% -113vh/21px 21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -190% 720vh/75px 75px;
+    background-repeat: no-repeat;
+  }
+
+  33% {
+    background: radial-gradient(farthest-side, #e2e2e2 99%, transparent) -50px 70%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 31% 70vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 23% 13vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -90% 20vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -80% 50vh/135px 135px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 140% 115vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -1150px/45px
+        45px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% 170vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 170%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 153% 13vh/80px
+        80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 40% 15vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -150px/45px
+        45px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% 70vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 70%/150px 200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 3% 3vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -24% 39vh/95px 95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 80vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% 35vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 20% -210px/100px 100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 62% 100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -1150px/36px
+        36px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 210% 120vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -1150px 270%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -183% 19vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 124% 130vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 480vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% -135vh/70px 70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -170% -150px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 182% 1170vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 1700%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 361% 140vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 213% -113vh/21px 21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -190% 720vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 24% 139vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 180vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% 135vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 170% -110px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 162% 1100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -50px 170%/110px 125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 31% 170vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 23% 113vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -190% 120vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -140% 1105vh/120px
+        120px;
+    background-repeat: no-repeat;
+  }
+
+  67% {
+    background: radial-gradient(farthest-side, #e2e2e2 96%, transparent) 140%
+        115vh/120px 120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -1150px/45px
+        45px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% 170vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 170%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 153% 13vh/80px
+        80px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -50px 70%/110px 125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 31% 70vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 23% 13vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -90% 20vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -80% 50vh/135px 135px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -24% 39vh/95px 95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 80vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% 35vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 20% -210px/100px 100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 62% 100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 40% 15vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -150px/45px
+        45px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% 70vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 70%/150px 200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 3% 3vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -170% -150px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 182% 1170vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 1700%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 361% 140vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 213% -113vh/21px 21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -190% 720vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -80% -1150px/36px
+        36px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 210% 120vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -1150px 270%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -183% 19vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 124% 130vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 480vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% -135vh/70px 70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -50px 170%/110px 125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 31% 170vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 23% 113vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -190% 120vh/75px 75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -140% 1105vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 24% 139vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center 180vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 45% 135vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 170% -110px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 162% 1100vh/100px
+        100px;
+    background-repeat: no-repeat;
+  }
+
+  100% {
+    background: radial-gradient(farthest-side, #e2e2e2 96%, transparent) 80%
+        65vh/220px 220px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -180% -650px/180px
+        180px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 180% 170vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 550px 50%/10px
+        10px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 43% 63vh/80px
+        80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -24% 49vh/195px 195px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) left 180vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -185% 35vh/70px 70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 170% -110px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 122% 130vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -150px 570%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 131% 170vh/106px
+        106px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -73% 123vh/21px 21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 190% 200vh/75px
+        75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 80% 150vh/135px
+        135px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -240% 15vh/120px 120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 85% -150px/180px 180px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 410% 10vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -10px 170%/100px 100px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 3% 13vh/80px 80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 124% 19vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) left 180vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -25% 135vh/70px 70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 70% -110px/160px 160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -162% 100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 50px 70%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 81% 170vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -123% 130vh/21px 21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 40% 50vh/75px
+        75px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 40% 215vh/120px
+        120px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -180% 450px/180px
+        180px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 110% -170vh/150px
+        150px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -110px 170%/150px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 203% 3vh/80px
+        80px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 240% 139vh/95px
+        95px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) center -80vh/200px
+        200px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 105% 35vh/70px
+        70px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -100% 110px/160px
+        160px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) 162% 100vh/100px
+        100px,
+      radial-gradient(farthest-side, #e2e2e2 99%, transparent) -500px -170%/110px
+        125px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 310% 70vh/126px
+        126px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) 230% 13vh/21px
+        21px,
+      radial-gradient(farthest-side, #e2e2e2 96%, transparent) -106% 20vh/75px 75px;
+    background-repeat: no-repeat;
+  }
+}
+
+* {
+  margin: 0px;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: tahoma;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  direction: rtl;
+
+  background: white;
+}
+@media screen and (min-width: 760px) {
+  body {
+    animation: backgroundMove 150s infinite;
+    animation-direction: alternate;
+  }
+}
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 20px;
+}
+textarea,
+#image1 {
+  width: 90%;
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 5px #ddd;
+}
+
+textarea {
+  height: 75px;
+  margin: 20px 0;
+  resize: none;
+  padding: 10px;
+  border-color: #aaa;
+  border-width: 2px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s all linear;
+  border-radius: 8px;
+}
+button:hover {
+  transform: scale(0.9);
+}
