@@ -325,7 +325,6 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  direction: rtl;
 
   background: white;
 }
@@ -359,6 +358,7 @@ textarea {
   padding: 10px;
   border-color: #aaa;
   border-width: 2px;
+  text-align:left;
 }
 
 button {
